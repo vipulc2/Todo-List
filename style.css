@@ -88,9 +88,7 @@ input[type=submit]{
 /*----------------------------------------*/
 /*TASKS LIST*/
 /*----------------------------------------*/
-.space {
-  border-top: 2px solid #cbcbcb;
-}
+
 
 .tasks-list {
   padding: 7px;

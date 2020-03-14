@@ -86,21 +86,6 @@ function storeTaskInLocalStorage(task){
 }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 function removeTask(e){
 
   if(e.target.parentElement.classList.contains("delete-icon")){
@@ -129,7 +114,7 @@ function searched(e){
     }else{
       tasks.style.display = "none";
     }
- 
+
 
   });
 }
